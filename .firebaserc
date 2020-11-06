@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-socket-8d5d5": {
+      "hosting": {
+        "chat-socket": [
+          "chat-socket-8d5d5"
+        ]
+      }
+    }
+  }
+}
